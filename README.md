@@ -1,6 +1,6 @@
 ## Getting Started
 
-# DASHBOARD E-COMMERCE CUSTOMER NALYSIS
+# DASHBOARD E-COMMERCE CUSTOMER ALYSIS
 
 Proyek ini adalah dashboard interaktif yang dibangun menggunakan Streamlit, dengan menggunakan
 E-Commerce Public Dataset sebagai sumber data utama. Dataset ini mencakup informasi tentang
