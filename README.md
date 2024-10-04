@@ -48,11 +48,6 @@ source .venv/scripts/activate
 pip install -r requirements.txt
 ```
 
-running notebook :
-
-```bash
-jupyter-notebook .
-```
 
 running dashboard :
 
